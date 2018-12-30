@@ -1,0 +1,23 @@
+<properties>
+	<property id="timeZone1" type="string">DET</property>
+	<property id="timeZone1Offset" type="number">-5</property>
+	<property id="timeZone1MinOffset" type="number">0</property>
+	<property id="timeZone1DST" type="boolean">true</property>
+	
+	<property id="timeZone2" type="string">FRA</property>
+	<property id="timeZone2Offset" type="number">1</property>
+	<property id="timeZone2MinOffset" type="number">0</property>
+	<property id="timeZone2DST" type="boolean">true</property>
+	
+	<property id="timeZone3" type="string">SIN</property>
+	<property id="timeZone3Offset" type="number">8</property>
+	<property id="timeZone3MinOffset" type="number">0</property>
+	<property id="timeZone3DST" type="boolean">false</property>
+	
+	<property id="male" type="boolean">true</property>
+	<property id="age" type="number">46</property>
+	<property id="weight" type="number">82</property>
+	<property id="height" type="number">181</property>
+	
+	<property id="active" type="boolean">true</property>
+</properties>

@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="20" pc="268435456" symbol="initialize"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="23" pc="268435460" symbol="initialize"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="24" pc="268435478" symbol="initialize"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="25" pc="268435515" symbol="initialize"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="26" pc="268435549" symbol="initialize"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="30" pc="268435587" symbol="onLayout"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="32" pc="268435591" symbol="onLayout"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="32" pc="268435603" symbol="onLayout"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="33" pc="268435643" symbol="onLayout"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="36" pc="268435681" symbol="onShow"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="41" pc="268435686" symbol="getHighIterator"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="43" pc="268435690" symbol="getHighIterator"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="45" pc="268435733" symbol="getHighIterator"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="51" pc="268435780" symbol="getHighIterator"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="53" pc="268435801" symbol="getHighIterator"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="56" pc="268435804" symbol="getHeartIterator"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="58" pc="268435808" symbol="getHeartIterator"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="60" pc="268435851" symbol="getHeartIterator"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="66" pc="268435898" symbol="getHeartIterator"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="68" pc="268435919" symbol="getHeartIterator"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="72" pc="268435922" symbol="createView"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="74" pc="268435926" symbol="createView"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="75" pc="268435947" symbol="createView"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="78" pc="268435962" symbol="createTimeString"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="80" pc="268435966" symbol="createTimeString"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="83" pc="268436054" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="85" pc="268436058" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="86" pc="268436086" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="88" pc="268436120" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="89" pc="268436136" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="89" pc="268436156" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="92" pc="268436175" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="93" pc="268436191" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="96" pc="268436210" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="98" pc="268436215" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="102" pc="268436237" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="102" pc="268436254" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="103" pc="268436279" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="103" pc="268436296" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="104" pc="268436321" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="105" pc="268436343" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="106" pc="268436365" symbol="createClockTime"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="109" pc="268436369" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="111" pc="268436373" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="112" pc="268436390" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="114" pc="268436421" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="115" pc="268436471" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="117" pc="268436521" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="118" pc="268436571" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="120" pc="268436621" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="121" pc="268436638" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="122" pc="268436672" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="125" pc="268436706" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="127" pc="268436723" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="128" pc="268436750" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="129" pc="268436777" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="131" pc="268436804" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="132" pc="268436831" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="133" pc="268436858" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="136" pc="268436885" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="137" pc="268436912" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="138" pc="268436939" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="140" pc="268436966" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="140" pc="268436977" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="141" pc="268436990" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="141" pc="268437001" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="142" pc="268437014" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="142" pc="268437025" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="144" pc="268437038" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="145" pc="268437056" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="146" pc="268437074" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="148" pc="268437092" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="149" pc="268437092" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="151" pc="268437092" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="152" pc="268437110" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="153" pc="268437128" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="154" pc="268437155" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="155" pc="268437182" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="158" pc="268437209" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="159" pc="268437216" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="161" pc="268437221" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="165" pc="268437258" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="172" pc="268437292" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="172" pc="268437339" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="173" pc="268437346" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="175" pc="268437350" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="175" pc="268437397" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="176" pc="268437404" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="178" pc="268437408" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="179" pc="268437427" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="180" pc="268437446" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="182" pc="268437465" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="183" pc="268437508" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="184" pc="268437568" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="185" pc="268437628" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="187" pc="268437688" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="189" pc="268437812" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="193" pc="268437829" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="194" pc="268437841" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="195" pc="268437869" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="198" pc="268437897" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="199" pc="268437921" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="199" pc="268437928" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="200" pc="268437978" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="202" pc="268437995" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="203" pc="268438019" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="203" pc="268438026" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="204" pc="268438052" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="209" pc="268438072" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="211" pc="268438208" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="212" pc="268438242" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="212" pc="268438248" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="213" pc="268438285" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="214" pc="268438313" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="216" pc="268438367" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="218" pc="268438444" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="220" pc="268438461" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="221" pc="268438488" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="222" pc="268438509" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="224" pc="268438537" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="224" pc="268438549" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="224" pc="268438565" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="225" pc="268438578" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="229" pc="268438594" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="230" pc="268438607" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="233" pc="268438620" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="234" pc="268438634" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="235" pc="268438648" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="236" pc="268438662" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="238" pc="268438676" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="239" pc="268438676" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="240" pc="268438676" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="241" pc="268438676" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="243" pc="268438676" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="245" pc="268438688" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="246" pc="268438692" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="247" pc="268438696" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="248" pc="268438700" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="252" pc="268438707" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="253" pc="268438711" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="254" pc="268438715" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="255" pc="268438719" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="258" pc="268438723" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="260" pc="268438739" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="262" pc="268438759" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="264" pc="268438776" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="265" pc="268438792" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="266" pc="268438804" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="268" pc="268438870" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="272" pc="268438936" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="273" pc="268438952" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="273" pc="268438964" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="274" pc="268439018" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="276" pc="268439069" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="280" pc="268439085" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="282" pc="268439097" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="283" pc="268439129" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="284" pc="268439161" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="285" pc="268439193" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="286" pc="268439225" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="290" pc="268439260" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="291" pc="268439292" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="292" pc="268439324" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="293" pc="268439356" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceView.mc" lineNum="294" pc="268439388" symbol="onUpdate"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceApp.mc" lineNum="5" pc="268439421" symbol="initialize"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceApp.mc" lineNum="6" pc="268439425" symbol="initialize"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceApp.mc" lineNum="10" pc="268439444" symbol="onStart"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceApp.mc" lineNum="14" pc="268439449" symbol="onStop"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceApp.mc" lineNum="18" pc="268439454" symbol="getInitialView"/>
+<entry filename="D:\\max\\workspace\\Chronos Terminal Watchface\\source\\ChronosTerminalWatchfaceApp.mc" lineNum="19" pc="268439458" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="50" pc="268439496" symbol="initialize"/>
+<entry filename="Rez" lineNum="51" pc="268439500" symbol="initialize"/>
+<entry filename="Rez" lineNum="54" pc="268439525" symbol="draw"/>
+<entry filename="Rez" lineNum="55" pc="268439529" symbol="draw"/>
+<entry filename="Rez" lineNum="56" pc="268439536" symbol="draw"/>
+<entry filename="Rez" lineNum="57" pc="268439543" symbol="draw"/>
+<entry filename="Rez" lineNum="58" pc="268439556" symbol="draw"/>
+<entry filename="Rez" lineNum="59" pc="268439569" symbol="draw"/>
+<entry filename="Rez" lineNum="62" pc="268439592" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="63" pc="268439596" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="65" pc="268439632" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="76" pc="268439725" symbol="initialize"/>
+<entry filename="Rez" lineNum="77" pc="268439729" symbol="initialize"/>
+<entry filename="Rez" lineNum="80" pc="268439754" symbol="draw"/>
+<entry filename="Rez" lineNum="81" pc="268439758" symbol="draw"/>
+<entry filename="Rez" lineNum="82" pc="268439765" symbol="draw"/>
+<entry filename="Rez" lineNum="83" pc="268439772" symbol="draw"/>
+<entry filename="Rez" lineNum="84" pc="268439785" symbol="draw"/>
+<entry filename="Rez" lineNum="85" pc="268439798" symbol="draw"/>
+<entry filename="Rez" lineNum="88" pc="268439821" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="89" pc="268439825" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="91" pc="268439861" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="104" pc="268439954" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="108" pc="268439966" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="109" pc="268440002" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="110" pc="268440029" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="112" pc="268440045" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="113" pc="268440178" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="114" pc="268440311" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="115" pc="268440444" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="116" pc="268440577" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="117" pc="268440710" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="118" pc="268440843" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="119" pc="268440989" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="120" pc="268441135" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="121" pc="268441281" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="122" pc="268441414" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="123" pc="268441515" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="124" pc="268441648" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="125" pc="268441749" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="126" pc="268441882" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="127" pc="268441983" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="128" pc="268442116" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="129" pc="268442217" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="130" pc="268442350" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="131" pc="268442451" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="132" pc="268442526" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="135" pc="268442627" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="144" pc="268442855" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="148" pc="268442867" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="149" pc="268442903" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="150" pc="268442930" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="152" pc="268442946" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="153" pc="268443079" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="154" pc="268443212" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="155" pc="268443345" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="156" pc="268443478" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="157" pc="268443611" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="158" pc="268443744" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="159" pc="268443890" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="160" pc="268444036" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="161" pc="268444182" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="162" pc="268444315" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="163" pc="268444416" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="164" pc="268444549" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="165" pc="268444650" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="166" pc="268444783" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="167" pc="268444884" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="168" pc="268445017" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="169" pc="268445118" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="170" pc="268445251" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="171" pc="268445352" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="172" pc="268445427" symbol="highContrastLayout"/>
+<entry filename="Rez" lineNum="175" pc="268445528" symbol="highContrastLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="50" symbol="timeZone3"/>
+<entry field="true" id="55" symbol="timeZone2"/>
+<entry field="true" id="52" symbol="timeZone1"/>
+<entry id="8389781" module="true" symbol="SensorHistory"/>
+<entry id="16" method="true" symbol="createView"/>
+<entry id="37" method="true" symbol="highContrastLayout"/>
+<entry field="true" id="29" symbol="heartIcon2"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="14" method="true" symbol="getHighIterator"/>
+<entry field="true" id="22" symbol="burnedIcon"/>
+<entry field="true" id="53" symbol="male"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="47" symbol="timeZone3Offset"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry field="true" id="49" symbol="timeZone2Offset"/>
+<entry field="true" id="31" symbol="highIcon2"/>
+<entry field="true" id="48" symbol="timeZone1MinOffset"/>
+<entry field="true" id="39" symbol="timeZone1Offset"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="15" method="true" symbol="getHeartIterator"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="46" symbol="timeZone2MinOffset"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="41" symbol="timeZone1DST"/>
+<entry field="true" id="25" symbol="highIcon"/>
+<entry id="8389802" method="true" symbol="getElevationHistory"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="26" symbol="icon"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="18" method="true" symbol="createClockTime"/>
+<entry field="true" id="28" symbol="burnedIcon2"/>
+<entry id="36" method="true" symbol="drawComplex"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry id="10" object="true" symbol="ChronosTerminalWatchfaceApp"/>
+<entry field="true" id="44" symbol="timeZone3MinOffset"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="30" symbol="distanceIcon2"/>
+<entry field="true" id="45" symbol="AppName"/>
+<entry field="true" id="42" symbol="Error"/>
+<entry field="true" id="8389543" symbol="phoneConnected"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389143" symbol="weight"/>
+<entry id="17" method="true" symbol="createTimeString"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="34" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="40" symbol="timeZone2DST"/>
+<entry field="true" id="54" symbol="age"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="21" symbol="stepsIcon"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="43" symbol="active"/>
+<entry field="true" id="23" symbol="heartIcon"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="51" symbol="device"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="8389702" method="true" symbol="getHeartRateHistory"/>
+<entry id="20" module="true" symbol="Layouts"/>
+<entry field="true" id="11" symbol="message"/>
+<entry field="true" id="8389892" object="true" symbol="background"/>
+<entry field="true" id="32" symbol="icon2"/>
+<entry id="8389345" symbol="rezId"/>
+<entry field="true" id="27" symbol="stepsIcon2"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="38" symbol="timeZone3DST"/>
+<entry id="8388908" object="true" symbol="History"/>
+<entry id="19" module="true" symbol="Menus"/>
+<entry id="35" object="true" symbol="highContrastBackground"/>
+<entry field="true" id="33" symbol="message2"/>
+<entry field="true" id="12" symbol="fr"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="13" symbol="highContrast"/>
+<entry id="9" object="true" symbol="ChronosTerminalWatchfaceView"/>
+<entry field="true" id="24" symbol="distanceIcon"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435586" name="device" stackId="1" startPc="268435460"/>
+<entry endPc="268435681" name="dc" stackId="1" startPc="268435587"/>
+<entry endPc="268435798" name="getMethod" stackId="1" startPc="268435733"/>
+<entry endPc="268435916" name="getMethod" stackId="1" startPc="268435851"/>
+<entry endPc="268435961" name="view" stackId="3" startPc="268435926"/>
+<entry endPc="268435962" name="name" stackId="1" startPc="268435922"/>
+<entry endPc="268435962" name="text" stackId="2" startPc="268435922"/>
+<entry endPc="268436054" name="clockTime" stackId="1" startPc="268435962"/>
+<entry endPc="268436369" name="minOffset" stackId="3" startPc="268436054"/>
+<entry endPc="268436369" name="clockTime" stackId="1" startPc="268436054"/>
+<entry endPc="268436369" name="offset" stackId="2" startPc="268436054"/>
+<entry endPc="268436369" name="dst" stackId="4" startPc="268436054"/>
+<entry endPc="268438069" name="viewHeart" stackId="36" startPc="268437841"/>
+<entry endPc="268438069" name="heart" stackId="34" startPc="268437841"/>
+<entry endPc="268438069" name="viewHigh" stackId="35" startPc="268437841"/>
+<entry endPc="268438069" name="high" stackId="33" startPc="268437841"/>
+<entry endPc="268439420" name="todayTime" stackId="2" startPc="268436373"/>
+<entry endPc="268439420" name="timeZone3MinOffset" stackId="20" startPc="268436373"/>
+<entry endPc="268439420" name="app" stackId="11" startPc="268436373"/>
+<entry endPc="268439420" name="fg2" stackId="48" startPc="268436373"/>
+<entry endPc="268439420" name="white" stackId="41" startPc="268436373"/>
+<entry endPc="268439420" name="height" stackId="30" startPc="268436373"/>
+<entry endPc="268439420" name="age" stackId="28" startPc="268436373"/>
+<entry endPc="268439420" name="dstDeOn" stackId="6" startPc="268436373"/>
+<entry endPc="268439420" name="timeZone2DST" stackId="22" startPc="268436373"/>
+<entry endPc="268439420" name="dstUSA" stackId="9" startPc="268436373"/>
+<entry endPc="268439420" name="gray" stackId="44" startPc="268436373"/>
+<entry endPc="268439420" name="ds" stackId="38" startPc="268436373"/>
+<entry endPc="268439420" name="male" stackId="26" startPc="268436373"/>
+<entry endPc="268439420" name="icon" stackId="40" startPc="268436373"/>
+<entry endPc="268439420" name="history" stackId="32" startPc="268436373"/>
+<entry endPc="268439420" name="today" stackId="3" startPc="268436373"/>
+<entry endPc="268439420" name="dstDeOff" stackId="7" startPc="268436373"/>
+<entry endPc="268439420" name="hour" stackId="37" startPc="268436373"/>
+<entry endPc="268439420" name="dstDE" stackId="10" startPc="268436373"/>
+<entry endPc="268439420" name="dstZ2" stackId="25" startPc="268436373"/>
+<entry endPc="268439420" name="dstZ1" stackId="24" startPc="268436373"/>
+<entry endPc="268439420" name="timeZone3DST" stackId="23" startPc="268436373"/>
+<entry endPc="268439420" name="dstUsaOff" stackId="5" startPc="268436373"/>
+<entry endPc="268439420" name="timeZone1MinOffset" stackId="18" startPc="268436373"/>
+<entry endPc="268439420" name="fg" stackId="45" startPc="268436373"/>
+<entry endPc="268439420" name="iconString" stackId="39" startPc="268436373"/>
+<entry endPc="268439420" name="timeZone1DST" stackId="21" startPc="268436373"/>
+<entry endPc="268439420" name="timeZone3" stackId="14" startPc="268436373"/>
+<entry endPc="268439420" name="timeZone2" stackId="13" startPc="268436373"/>
+<entry endPc="268439420" name="dstUsaOn" stackId="4" startPc="268436373"/>
+<entry endPc="268439420" name="timeZone1" stackId="12" startPc="268436373"/>
+<entry endPc="268439420" name="red" stackId="43" startPc="268436373"/>
+<entry endPc="268439420" name="weight" stackId="29" startPc="268436373"/>
+<entry endPc="268439420" name="now" stackId="8" startPc="268436373"/>
+<entry endPc="268439420" name="timeZone3Offset" stackId="17" startPc="268436373"/>
+<entry endPc="268439420" name="timeZone2MinOffset" stackId="19" startPc="268436373"/>
+<entry endPc="268439420" name="timeZone2Offset" stackId="16" startPc="268436373"/>
+<entry endPc="268439420" name="timeZone1Offset" stackId="15" startPc="268436373"/>
+<entry endPc="268439420" name="black" stackId="42" startPc="268436373"/>
+<entry endPc="268439420" name="active" stackId="27" startPc="268436373"/>
+<entry endPc="268439420" name="bmr" stackId="31" startPc="268436373"/>
+<entry endPc="268439420" name="highlight" stackId="47" startPc="268436373"/>
+<entry endPc="268439420" name="bg" stackId="46" startPc="268436373"/>
+<entry endPc="268439421" name="dc" stackId="1" startPc="268436369"/>
+<entry endPc="268439449" name="state" stackId="1" startPc="268439444"/>
+<entry endPc="268439454" name="state" stackId="1" startPc="268439449"/>
+<entry endPc="268439591" name="pWidth" stackId="4" startPc="268439529"/>
+<entry endPc="268439591" name="pY" stackId="3" startPc="268439529"/>
+<entry endPc="268439591" name="pX" stackId="2" startPc="268439529"/>
+<entry endPc="268439591" name="pHeight" stackId="5" startPc="268439529"/>
+<entry endPc="268439592" name="dc" stackId="1" startPc="268439525"/>
+<entry endPc="268439725" name="pWidth" stackId="4" startPc="268439592"/>
+<entry endPc="268439725" name="dc" stackId="1" startPc="268439592"/>
+<entry endPc="268439725" name="pY" stackId="3" startPc="268439592"/>
+<entry endPc="268439725" name="pX" stackId="2" startPc="268439592"/>
+<entry endPc="268439725" name="pHeight" stackId="5" startPc="268439592"/>
+<entry endPc="268439820" name="pWidth" stackId="4" startPc="268439758"/>
+<entry endPc="268439820" name="pY" stackId="3" startPc="268439758"/>
+<entry endPc="268439820" name="pX" stackId="2" startPc="268439758"/>
+<entry endPc="268439820" name="pHeight" stackId="5" startPc="268439758"/>
+<entry endPc="268439821" name="dc" stackId="1" startPc="268439754"/>
+<entry endPc="268439954" name="pWidth" stackId="4" startPc="268439821"/>
+<entry endPc="268439954" name="dc" stackId="1" startPc="268439821"/>
+<entry endPc="268439954" name="pY" stackId="3" startPc="268439821"/>
+<entry endPc="268439954" name="pX" stackId="2" startPc="268439821"/>
+<entry endPc="268439954" name="pHeight" stackId="5" startPc="268439821"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_Zone1" stackId="9" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_Distance" stackId="18" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_burnedIcon" stackId="15" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_heartIcon" stackId="17" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_stepsIcon" stackId="13" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_Heart" stackId="16" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_highIcon" stackId="21" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_Battery" stackId="8" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_custom_drawable_background" stackId="2" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_High" stackId="20" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_distanceIcon" stackId="19" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_TimeLabelAmerica" stackId="5" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_TimeLabelSingapore" stackId="6" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_icon" stackId="22" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_Burned" stackId="14" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_TimeLabelGermany" stackId="7" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_message" stackId="23" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_Steps" stackId="12" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_Date" stackId="4" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_Zone3" stackId="10" startPc="268439966"/>
+<entry endPc="268442854" name="rez_cmp_local_bitmap_Zone2" stackId="11" startPc="268439966"/>
+<entry endPc="268442855" name="dc" stackId="1" startPc="268439954"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_Zone1" stackId="9" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_Distance" stackId="18" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_icon2" stackId="22" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_custom_drawable_highContrastBackground" stackId="2" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_Heart" stackId="16" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_Battery" stackId="8" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_burnedIcon2" stackId="15" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_highIcon2" stackId="21" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_High" stackId="20" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_distanceIcon2" stackId="19" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_stepsIcon2" stackId="13" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_TimeLabelAmerica" stackId="5" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_message2" stackId="23" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_TimeLabelSingapore" stackId="6" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_Burned" stackId="14" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_TimeLabelGermany" stackId="7" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_heartIcon2" stackId="17" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_Steps" stackId="12" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_Date" stackId="4" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_Zone3" stackId="10" startPc="268442867"/>
+<entry endPc="268445755" name="rez_cmp_local_bitmap_Zone2" stackId="11" startPc="268442867"/>
+<entry endPc="268445756" name="dc" stackId="1" startPc="268442855"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="ChronosTerminalWatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="ChronosTerminalWatchfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="ChronosTerminalWatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHighIterator" parent="ChronosTerminalWatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHeartIterator" parent="ChronosTerminalWatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="createView" parent="ChronosTerminalWatchfaceView">
+<param id="name"/>
+<param id="text"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="createTimeString" parent="ChronosTerminalWatchfaceView">
+<param id="clockTime"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="createClockTime" parent="ChronosTerminalWatchfaceView">
+<param id="clockTime"/>
+<param id="offset"/>
+<param id="minOffset"/>
+<param id="dst"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="ChronosTerminalWatchfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ChronosTerminalWatchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="ChronosTerminalWatchfaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="ChronosTerminalWatchfaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="ChronosTerminalWatchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="background">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawComplex" parent="background">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="highContrastBackground">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="highContrastBackground">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawComplex" parent="highContrastBackground">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="highContrastLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="ChronosTerminalWatchfaceView" type="class"/>
+<dataEntry offset="301" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="380" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="547" parentId="Drawables" symbolId="background" type="class"/>
+<dataEntry offset="610" parentId="Drawables" symbolId="highContrastBackground" type="class"/>
+<dataEntry offset="673" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="704" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="735" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="766" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="813" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1012" parentId="globals" symbolId="ChronosTerminalWatchfaceApp" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

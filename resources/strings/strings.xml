@@ -1,0 +1,29 @@
+<strings>
+    <string id="AppName">Chronos Terminal Watchface</string>
+	<string id="timeZone1">First Time Zone</string>
+	<string id="timeZone1Offset">Offset from UTC for First Time Zone</string> 
+	<string id="timeZone1MinOffset">Minute Offset from UTC for First Time Zone</string>
+	<string id="timeZone1DST">Daylight Saving Time for First Time Zone</string>
+	
+	<string id="timeZone2">Second Time Zone</string>
+	<string id="timeZone2Offset">Offset from UTC for Second Time Zone</string> 
+	<string id="timeZone2MinOffset">Minute Offset from UTC for Second Time Zone</string>
+	<string id="timeZone2DST">Daylight Saving Time for Second Time Zone</string>
+	
+	<string id="timeZone3">Third Time Zone</string>
+	<string id="timeZone3Offset">Offset from UTC for Third Time Zone</string> 
+	<string id="timeZone3MinOffset">Minute Offset from UTC for Third Time Zone</string>
+	<string id="timeZone3DST">Daylight Saving Time for Third Time Zone</string>
+	
+	<string id="Error">Error: Not a Number!</string>
+
+	<string id="device">fenix5</string>
+	
+	<string id="male">Male</string>
+	<string id="age">Age (in years)</string>
+	<string id="weight">Weight (in kg)</string>
+	<string id="height">Height (in cm)</string>
+	
+	<string id="active">Use active calories?</string>
+	<string id="highContrast">Use high contrast mode? (Foreground: Black, Background: White)</string>
+</strings>

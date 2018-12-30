@@ -1,0 +1,70 @@
+<settings>
+
+
+    <setting propertyKey="@Properties.timeZone1" title="@Strings.timeZone1">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+	
+	<setting propertyKey="@Properties.timeZone1Offset" title="@Strings.timeZone1Offset">
+		<settingConfig type="numeric" errorMessage="@Strings.Error"/>
+	</setting>
+	
+	<setting propertyKey="@Properties.timeZone1MinOffset" title="@Strings.timeZone1MinOffset">
+		<settingConfig type="numeric" errorMessage="@Strings.Error"/>
+	</setting>
+	
+	<setting propertyKey="@Properties.timeZone1DST" title="@Strings.timeZone1DST">
+		<settingConfig type="boolean"/>
+	</setting>
+	
+	 <setting propertyKey="@Properties.timeZone2" title="@Strings.timeZone2">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+	
+	<setting propertyKey="@Properties.timeZone2Offset" title="@Strings.timeZone2Offset">
+		<settingConfig type="numeric" errorMessage="@Strings.Error"/>
+	</setting>
+	
+	<setting propertyKey="@Properties.timeZone2MinOffset" title="@Strings.timeZone2MinOffset">
+		<settingConfig type="numeric" errorMessage="@Strings.Error"/>
+	</setting>
+	
+	<setting propertyKey="@Properties.timeZone2DST" title="@Strings.timeZone2DST">
+		<settingConfig type="boolean"/>
+	</setting>
+	
+	 <setting propertyKey="@Properties.timeZone3" title="@Strings.timeZone3">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+	
+	<setting propertyKey="@Properties.timeZone3Offset" title="@Strings.timeZone3Offset">
+		<settingConfig type="numeric" errorMessage="@Strings.Error"/>
+	</setting>
+	
+	<setting propertyKey="@Properties.timeZone3MinOffset" title="@Strings.timeZone3MinOffset">
+		<settingConfig type="numeric" errorMessage="@Strings.Error"/>
+	</setting>
+	
+	<setting propertyKey="@Properties.timeZone3DST" title="@Strings.timeZone3DST">
+		<settingConfig type="boolean"/>
+	</setting>
+	
+	<setting propertyKey="@Properties.male" title="@Strings.male">
+		<settingConfig type="boolean"/>
+	</setting>
+	<setting propertyKey="@Properties.age" title="@Strings.age">
+		<settingConfig type="numeric" errorMessage="@Strings.Error"/>
+	</setting>
+	<setting propertyKey="@Properties.weight" title="@Strings.weight">
+		<settingConfig type="numeric" errorMessage="@Strings.Error"/>
+	</setting>
+	<setting propertyKey="@Properties.height" title="@Strings.height">
+		<settingConfig type="numeric" errorMessage="@Strings.Error"/>
+	</setting>
+	
+	<setting propertyKey="@Properties.active" title="@Strings.active">
+		<settingConfig type="boolean"/>
+	</setting>
+	
+
+</settings>

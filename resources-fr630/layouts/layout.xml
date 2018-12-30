@@ -1,0 +1,23 @@
+<layout id="WatchFace">
+    <label id="TimeLabel" x="107" y="5" font="Gfx.FONT_NUMBER_HOT" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+	<label id="Date" x="107" y="60" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_LT_GRAY"/>
+	<label id="TimeLabelAmerica" x="30" y="80" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"/>
+	<label id="TimeLabelSingapore" x="184" y="80" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"/>
+	<label id="TimeLabelGermany" x="107" y="80" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE"/>
+	<label id="Battery" x="190" y="60" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_DK_GRAY"/>
+	<label id="Zone1" text="DET" x="30" y="100" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_LT_GRAY"/>
+	<label id="Zone3" text="SIN" x="184" y="100" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_LT_GRAY"/>
+	<label id="Zone2" text="FRA" x="107" y="100" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_LT_GRAY"/>
+	<label id="Steps" x="80" y="122" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_LT_GRAY"/>
+	<bitmap id="stepsIcon" x="20" y="126" filename="../drawables/steps_small.png"><palette><color>D3D3D3</color></palette></bitmap>
+	<label id="Burned" x="180" y="122" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_LT_GRAY"/>
+	<bitmap id="burnedIcon" x="130" y="126" filename="../drawables/burned_small.png"><palette><color>D3D3D3</color></palette></bitmap>
+	<label id="Heart" x="100" y="146" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_LT_GRAY"/>
+	<bitmap id="heartIcon" x="40" y="150" filename="../drawables/heart_small.png"><palette><color>D3D3D3</color></palette></bitmap>
+	<label id="Distance" x="175" y="146" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_LT_GRAY"/>
+	<bitmap id="distanceIcon" x="130" y="150" filename="../drawables/distance_small.png"><palette><color>D3D3D3</color></palette></bitmap>
+	<label id="High" x="140" y="210" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_LT_GRAY"/>
+	<bitmap id="highIcon" x="90" y="218" filename="../drawables/high_small.png"><palette><color>D3D3D3</color></palette></bitmap>
+	<bitmap id="icon" filename="../drawables/icon.png"><palette><color>FFFFFF</color></palette></bitmap>
+	<bitmap id="message" x="15" y="63" filename="../drawables/message.png"/>
+</layout>
